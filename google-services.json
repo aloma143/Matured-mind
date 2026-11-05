@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604604474206",
+    "project_id": "matured-mind-2b1d1",
+    "storage_bucket": "matured-mind-2b1d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604604474206:android:e5f52010c4f7d35cd565cf",
+        "android_client_info": {
+          "package_name": "com.maturedmind.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMInKQc3JqXgJZF7EZgLnpQdbebPh7nXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
